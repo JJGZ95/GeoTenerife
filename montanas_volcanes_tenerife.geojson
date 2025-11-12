@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "descripcion": "El Volcán de las Rozas es una formación volcánica que desempeñó un papel fundamental en la creación de la plataforma volcánica de Punta del Hidalgo.",
+        "nombre": "Volcán de las Rozas",
+        "enp": "Parque Rural de Anaga",
+        "altura_m": 171
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.317505571532877, 28.554402163380242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "descripcion": "Montaña Grande es el mayor de los volcanes que se erigen sobre el malpaís de Güímar. Su simétrica silueta es un icono del municipio y el elemento central de la Reserva Natural Especial. La subida al cono volcánico está prohibida, por los efectos negativos que el tránsito provoca sobre la conservación del cono",
+        "nombre": "Montaña Grande",
+        "enp": "Reserva Natural Especial del Malpaís de Güímar",
+        "altura_m": 278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.377322431873885, 28.313597024020044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "descripcion": "El Pico del Inglés es uno de los miradores más emblemáticos del Parque Rural de Anaga. Desde su cima se disfrutan panorámicas espectaculares del norte y sur de la isla, en un entorno de exuberante laurisilva y crestas montañosas de origen volcánico.",
+        "nombre": "Pico del Inglés",
+        "enp": "Parque Rural de Anaga",
+        "altura_m": 960
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.264299383178443, 28.533459226626594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "descripcion": "El Pico Baracán se alza como uno de los puntos más altos del Macizo de Teno. Desde su cima se dominan amplias vistas del noroeste de Tenerife, los valles y los acantilados de Los Gigantes. Su origen volcánico y su valor paisajístico lo convierten en un lugar de gran interés natural y geológico.",
+        "nombre": "Pico Baracán",
+        "enp": "Parque Rural de Teno",
+        "altura_m": 1002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.862803101794793, 28.334817451804128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "descripcion": "La Montaña de Tejina es un cono volcánico que en tiempos posteriores fue dedicado a la agricultura, lo que resultó en la creación de terrazas de cultivo que la rodean. Esta combinación de elementos geológicos y agrarios agrega un atractivo singular a la montaña",
+        "nombre": "Montaña de Tejina",
+        "enp": "Monumento Natural de La Montaña Tejina",
+        "altura_m": 1055
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.75000653491965, 28.191039794427894]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "descripcion": "La Montaña El Cerro es un cono volcánico cubierto de vegetación canaria, situado dentro del Paisaje Protegido de Las Lagunetas. Su relieve suave y su entorno forestal la convierten en un ejemplo representativo del modelado volcánico erosionado y reforestado del norte de Tenerife.",
+        "nombre": "Montaña El Cerro",
+        "enp": "Paisaje Protegido de Las Lagunetas",
+        "altura_m": 1446
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.390786880457256, 28.44377988529904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "descripcion": "El Volcán Montaña Chinyero es un testimonio de la última manifestación volcánica en Tenerife, que ocurrió a principios del siglo XX y tuvo una duración de tan solo 10 días. Este volcán es una importante reliquia geológica que marca un evento significativo en la historia volcánica de la isla",
+        "nombre": "Montaña de Chinyero",
+        "enp": "Reserva Natural Especial del Chinyero",
+        "altura_m": 1561
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.7567396260452, 28.294712291469573]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "descripcion": "La Montaña de Samara es un cono volcánico de aspecto llamativo que marca la entrada al Parque Nacional. Su cráter es accesible para visitar, ofreciendo a los excursionistas y amantes de la geología la oportunidad de explorar esta singular formación volcánica",
+        "nombre": "Montaña de Sámara",
+        "enp": "Parque Nacional del Teide",
+        "altura_m": 1937
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.728210720131006, 28.269671011567713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "descripcion": "La Montaña de Guamaso es un cono volcánico que se caracteriza por su perfil suavemente inclinado y la exuberante vegetación que lo cubre. Una de sus características más singulares es que los visitantes tienen la oportunidad de caminar sobre el cráter, siguiendo el sendero PNT 14.- Alto de Guamaso",
+        "nombre": "Montaña de Guamaso",
+        "enp": "Parque Nacional del Teide",
+        "altura_m": 2086
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.557768972723697, 28.310265422377647]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "descripcion": "El Volcán de Fasnia es un cono volcánico relativamente joven, cuya última erupción tuvo lugar en 1705. Este cono volcánico se distingue por su intensa coloración negra, que es característica de las rocas volcánicas.",
+        "nombre": "Volcán de Fasnia",
+        "enp": "Parque Nacional del Teide",
+        "altura_m": 2231
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.511210873938158, 28.285301411752798]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "descripcion": "La Montaña de Guajara, con sus imponentes 2.718 metros de altitud, se erige como el punto más elevado dentro del Parque Nacional y se posiciona como el tercer pico más alto de la isla. Esta majestuosa montaña, con su silueta distintiva, es un punto de referencia icónico en el Parque Nacional del Teide.",
+        "nombre": "Montaña de Guajara",
+        "enp": "Parque Nacional del Teide",
+        "altura_m": 2718
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.612293170161575, 28.21699798893248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "descripcion": "Montaña Blanca es un cono volcánico situado en las faldas del Teide. Su nombre proviene de la tonalidad clara de sus materiales pumíticos. Es un punto de partida popular para la ascensión al Pico Teide y un ejemplo notable de vulcanismo explosivo en Tenerife.",
+        "nombre": "Montaña Blanca",
+        "enp": "Monumento Natural del Teide",
+        "altura_m": 2748
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.612666901507446, 28.26820286021664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "descripcion": "El Pico Teide es el punto más alto de la geografía española, al que solo se puede acceder con autorización previa, ya que su acceso está restringido.",
+        "nombre": "Pico Teide",
+        "enp": "Monumento Natural del Teide",
+        "altura_m": 3718
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.642206055816594, 28.272598581018748]
+      }
+    }
+  ]
+}
